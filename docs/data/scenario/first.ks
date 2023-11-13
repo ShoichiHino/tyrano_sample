@@ -1,9 +1,78 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="あ"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
+
+わりばし[r]
+
+[r]
+
+ルール[r]
+・各プレイヤーは自身の手の各々で指を１本広げた状態にし、Player 1から交互に始める[r]
+・自身のターンでプレイヤーは指が１本以上広げられている手のうちの１つを敵の生きている手に打つ[r]
+・打つのに使用された手の指の本数分だけ打たれた相手の手の指の本数が増加する[r]
+
+[r]
+
+ルールを理解したら左クリックしてください。[l][r]
+
+Player 1 : L 1 / R 1[r]
+Player 2 : L 1 / R 1[r]
+
+[r]
+
+Player 1 : どの手を打つか？[r]
+
+[r]
+
+[link target=*11212] 左 ⇒ 左 [endlink][r]
+[link target=*11122] 左 ⇒ 右 [endlink][r]
+[link target=*11212] 右 ⇒ 左 [endlink][r]
+[link target=*11122] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+*11212
+
+[cm]
+
+Player 1 : L 1 / R 1[r]
+Player 2 : L 2 / R 1[r]
+
+[r]
+
+Player 2 : どの手を打つか？[r]
+
+[r]
+
+[link target=*31211] 左 ⇒ 左 [endlink][r]
+[link target=*13211] 左 ⇒ 右 [endlink][r]
+[link target=*21211] 右 ⇒ 左 [endlink][r]
+[link target=*12211] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+*11122
+
+[cm]
+
+Player 1 : L 1 / R 1[r]
+Player 2 : L 1 / R 2[r]
+
+[r]
+
+Player 2 : どの手を打つか？[r]
+
+[r]
+
+[link target=*21121] 左 ⇒ 左 [endlink][r]
+[link target=*12121] 左 ⇒ 右 [endlink][r]
+[link target=*31121] 右 ⇒ 左 [endlink][r]
+[link target=*13121] 右 ⇒ 右 [endlink][r]
+[s]
+
 
 「走るか寝るかするメロス」[l][r]
 
@@ -44,3 +113,15 @@
 【 GOOD END 】[l][cm]
 
 [jump target=*start]
+
+
+
+
+Player 1 : L 1 / R 1[r]
+Player 2 : L 1 / R 1[r]
+
+[link target=*1121] →左 ⇒ 左 [endlink][r]
+[link target=*1112] →左 ⇒ 右 [endlink][r]
+[link target=*1121] →右 ⇒ 左 [endlink][r]
+[link target=*1112] →右 ⇒ 右 [endlink][r]
+[s]
