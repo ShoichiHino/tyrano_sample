@@ -18,6 +18,10 @@
 
 ルールを理解したら左クリックしてください。[l][r]
 
+
+
+
+
 Player 1 : L 1 / R 1[r]
 Player 2 : L 1 / R 1[r]
 
@@ -32,6 +36,11 @@ Player 1 : どの手を打つか？[r]
 [link target=*11212] 右 ⇒ 左 [endlink][r]
 [link target=*11122] 右 ⇒ 右 [endlink][r]
 [s]
+
+
+
+
+
 
 
 *11212
@@ -54,6 +63,7 @@ Player 2 : どの手を打つか？[r]
 [s]
 
 
+
 *11122
 
 [cm]
@@ -72,6 +82,223 @@ Player 2 : どの手を打つか？[r]
 [link target=*31121] 右 ⇒ 左 [endlink][r]
 [link target=*13121] 右 ⇒ 右 [endlink][r]
 [s]
+
+
+
+
+
+
+
+*31211
+
+[cm]
+
+Player 1 : L 3 / R 1[r]
+Player 2 : L 2 / R 1[r]
+
+[r]
+
+Player 1 : どの手を打つか？[r]
+
+[r]
+
+[link target=*31112] 左 ⇒ 左 [endlink][r]
+[link target=*31202] 左 ⇒ 右 [endlink][r]
+[link target=*31312] 右 ⇒ 左 [endlink][r]
+[link target=*31222] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+
+*13211
+
+[cm]
+
+Player 1 : L 1 / R 3[r]
+Player 2 : L 2 / R 1[r]
+
+[r]
+
+Player 1 : どの手を打つか？[r]
+
+[r]
+
+[link target=*13312] 左 ⇒ 左 [endlink][r]
+[link target=*13222] 左 ⇒ 右 [endlink][r]
+[link target=*13112] 右 ⇒ 左 [endlink][r]
+[link target=*13202] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+
+*21211
+
+[cm]
+
+Player 1 : L 2 / R 1[r]
+Player 2 : L 2 / R 1[r]
+
+[r]
+
+Player 1 : どの手を打つか？[r]
+
+[r]
+
+[link target=*21012] 左 ⇒ 左 [endlink][r]
+[link target=*21232] 左 ⇒ 右 [endlink][r]
+[link target=*21312] 右 ⇒ 左 [endlink][r]
+[link target=*21222] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+
+*12211
+
+[cm]
+
+Player 1 : L 1 / R 2[r]
+Player 2 : L 2 / R 1[r]
+
+[r]
+
+Player 1 : どの手を打つか？[r]
+
+[r]
+
+[link target=*12312] 左 ⇒ 左 [endlink][r]
+[link target=*12222] 左 ⇒ 右 [endlink][r]
+[link target=*12012] 右 ⇒ 左 [endlink][r]
+[link target=*12232] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+
+*21121
+
+[cm]
+
+Player 1 : L 2 / R 1[r]
+Player 2 : L 1 / R 2[r]
+
+[r]
+
+Player 1 : どの手を打つか？[r]
+
+[r]
+
+[link target=*21322] 左 ⇒ 左 [endlink][r]
+[link target=*21102] 左 ⇒ 右 [endlink][r]
+[link target=*21222] 右 ⇒ 左 [endlink][r]
+[link target=*21132] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+
+*12121
+
+[cm]
+
+Player 1 : L 1 / R 2[r]
+Player 2 : L 1 / R 2[r]
+
+[r]
+
+Player 1 : どの手を打つか？[r]
+
+[r]
+
+[link target=*12222] 左 ⇒ 左 [endlink][r]
+[link target=*12132] 左 ⇒ 右 [endlink][r]
+[link target=*12322] 右 ⇒ 左 [endlink][r]
+[link target=*12102] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+
+*31121
+
+[cm]
+
+Player 1 : L 3 / R 1[r]
+Player 2 : L 1 / R 2[r]
+
+[r]
+
+Player 1 : どの手を打つか？[r]
+
+[r]
+
+[link target=*12222] 左 ⇒ 左 [endlink][r]
+[link target=*12132] 左 ⇒ 右 [endlink][r]
+[link target=*12322] 右 ⇒ 左 [endlink][r]
+[link target=*12102] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+
+*13121
+
+[cm]
+
+Player 1 : L 1 / R 3[r]
+Player 2 : L 1 / R 2[r]
+
+[r]
+
+Player 1 : どの手を打つか？[r]
+
+[r]
+
+[link target=*13222] 左 ⇒ 左 [endlink][r]
+[link target=*13132] 左 ⇒ 右 [endlink][r]
+[link target=*13022] 右 ⇒ 左 [endlink][r]
+[link target=*13112] 右 ⇒ 右 [endlink][r]
+[s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 「走るか寝るかするメロス」[l][r]
