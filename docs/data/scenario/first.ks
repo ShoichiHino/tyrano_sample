@@ -11,13 +11,13 @@
 
 [cm]
 
-[bg storage=IMG_4130.jpg time=50]
+[bg storage=IMG_4130.jpg time=250]
 
 旅行前夜の過ごし方[l]
 
 [cm]
 
-[bg storage=IMG_4121.JPG time=50]
+[bg storage=IMG_4121.JPG time=250]
 
 午後8時。[r]
 明日から友人2人と沖縄旅行に行く予定だ。[r]
@@ -40,7 +40,7 @@
 
 [cm]
 
-[bg storage=IMG_4124.JPG time=50]
+[bg storage=IMG_4124.JPG time=250]
 
 現在午後9時。[r]
 1時間かけて明日からの旅行の荷造りを終えた。[r]
@@ -61,7 +61,7 @@
 
 [cm]
 
-[bg storage=IMG_4123.JPG time=50]
+[bg storage=IMG_4123.JPG time=250]
 
 現在午後10時。[r]
 1時間かけて課題を解いて提出できたため、あとは寝るだけで良い状況となった。[r]
@@ -80,7 +80,7 @@
 
 [cm]
 
-[bg storage=IMG_4127.JPG time=50]
+[bg storage=IMG_4127.JPG time=250]
 
 スマホを見ていたら午後11時になっていることに気が付き、急いで課題を解き始めた。[r]
 無事に課題は提出できたが、午前12時に友達（旅行する友人と別の友人だが互いに交友関係がある）からオンラインゲームに誘われた。[r]
@@ -98,7 +98,7 @@
 
 [cm]
 
-[bg storage=IMG_4125.JPG time=50]
+[bg storage=IMG_4125.JPG time=250]
 
 ついつい盛り上がってしまって気がついたら午前3時になっていた。[r]
 流石に寝ないとまずいと思ったが、寝たら遅刻する可能性がありそうだし、飛行機で寝れるからゲームを続行して一晩中起きてもいいと思った。[r]
@@ -116,7 +116,7 @@
 
 [cm]
 
-[bg storage=IMG_4122.JPG time=50]
+[bg storage=IMG_4122.JPG time=250]
 
 現在午前6時。[r]
 目覚ましよりも前に気持ちよく目が覚めた。[r]
@@ -135,7 +135,7 @@
 
 [cm]
 
-[bg storage=IMG_4128.JPG time=50]
+[bg storage=IMG_4128.JPG time=250]
 
 最終的に一晩中ゲームをして空港に向かった。[r]
 空港の近くに住んでいたこともあって一番乗りで到着したが、気絶しそうなくらい眠かった。[r]
@@ -154,7 +154,7 @@
 
 [cm]
 
-[bg storage=IMG_4128.JPG time=50]
+[bg storage=IMG_4128.JPG time=250]
 
 遅刻が怖かったためゆっくり支度を済ませて空港に向かった。[r]
 だいぶ眠かったため支度を済ませる段階で何度か寝そうになったが気合いで起き続けた。[r]
@@ -175,7 +175,7 @@
 
 [cm]
 
-[bg storage=IMG_4122.JPG time=50]
+[bg storage=IMG_4122.JPG time=250]
 
 目が覚めたら午前8時半になっていた。[r]
 目覚ましにも気が付かなかったらしい。[r]
@@ -199,7 +199,7 @@
 
 [cm]
 
-[bg storage=IMG_4123.JPG time=50]
+[bg storage=IMG_4123.JPG time=250]
 
 現在午後9時。[r]
 1時間かけて課題を解いて提出できたため、明日の旅行だけ考えれば良い状況となった。[r]
@@ -218,7 +218,7 @@
 
 [cm]
 
-[bg storage=IMG_4124.JPG time=50]
+[bg storage=IMG_4124.JPG time=250]
 
 現在午後10時。[r]
 1時間かけて明日からの旅行の荷造りを終えた。[r]
@@ -238,7 +238,7 @@
 
 [cm]
 
-[bg storage=IMG_4122.JPG time=50]
+[bg storage=IMG_4122.JPG time=250]
 
 スマホを見ていたら午後11時に眠くなり寝ることにした。[r]
 そして、午前7時に目覚ましと同時に気持ちよく起きることができた。[r]
@@ -256,7 +256,7 @@
 
 [cm]
 
-[bg storage=IMG_4122.JPG time=50]
+[bg storage=IMG_4122.JPG time=250]
 
 現在午前6時。[r]
 目覚ましよりも前に気持ちよく目が覚めた。[r]
@@ -275,7 +275,7 @@
 
 [cm]
 
-[bg storage=IMG_4128.JPG time=50]
+[bg storage=IMG_4128.JPG time=250]
 
 遅刻が怖かったためゆっくり支度を済ませて空港に向かった。[r]
 支度を済ませる段階でシャキッと目を覚ますことに成功し、空港の近くに住んでいたこともあって一番乗りで到着した。[r]
@@ -293,7 +293,7 @@
 
 [cm]
 
-[bg storage=IMG_4128.JPG time=50]
+[bg storage=IMG_4128.JPG time=250]
 
 目が覚めたら午前8時になっていた。[r]
 目覚ましにも気が付かなかったらしい。[r]
@@ -314,7 +314,7 @@
 
 [cm]
 
-[bg storage=IMG_4129.jpg time=50]
+[bg storage=IMG_4129.jpg time=250]
 
 YouTubeを見ていたら午後11時15分になっていた。[r]
 課題の締め切りまであと45分しかない。[r]
@@ -334,7 +334,7 @@ YouTubeを見ていたら午後11時15分になっていた。[r]
 
 [cm]
 
-[bg storage=IMG_4127.JPG time=50]
+[bg storage=IMG_4127.JPG time=250]
 
 午後11時58分。[r]
 満足はしていないがなんとか課題を解いて提出できた。
@@ -355,7 +355,7 @@ YouTubeを見ていたら午後11時15分になっていた。[r]
 
 [cm]
 
-[bg storage=IMG_4122.JPG time=50]
+[bg storage=IMG_4122.JPG time=250]
 
 現在午前6時。[r]
 荷造りをすぐ済ませて午前1時に就寝し、午前6時に目が覚めた。[r]
@@ -375,7 +375,7 @@ YouTubeを見ていたら午後11時15分になっていた。[r]
 
 [cm]
 
-[bg storage=IMG_4125.JPG time=50]
+[bg storage=IMG_4125.JPG time=250]
 
 現在午前2時。[r]
 気がついたら午前2時まで遊んでいた。[r]
@@ -392,7 +392,7 @@ YouTubeを見ていたら午後11時15分になっていた。[r]
 
 *suimin4
 
-[bg storage=IMG_4122.JPG time=50]
+[bg storage=IMG_4122.JPG time=250]
 
 現在午前6時。[r]
 荷造りをすぐ済ませて午前3時に就寝し、午前6時に目が覚めた。[r]
@@ -412,7 +412,7 @@ YouTubeを見ていたら午後11時15分になっていた。[r]
 
 [cm]
 
-[bg storage=IMG_4122.jpg time=50]
+[bg storage=IMG_4122.jpg time=250]
 
 最終的に一晩中ゲームをし、急いで荷造りをした。[r]
 しかし、荷造り中に限界を迎え、気がついたら午前12時に目が覚めた。[r]
@@ -433,7 +433,7 @@ YouTubeを見ていたら午後11時15分になっていた。[r]
 
 [cm]
 
-[bg storage=IMG_4128.JPG time=50]
+[bg storage=IMG_4128.JPG time=250]
 
 遅刻が怖かったためゆっくり支度を済ませて空港に向かった。[r]
 少し眠かったが気合いで起き続けて支度を済ませた。[r]
