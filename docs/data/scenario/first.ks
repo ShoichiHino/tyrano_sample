@@ -17,7 +17,7 @@
 
 [cm]
 
-[bg storage=https://github.com/ShoichiHino/tyrano_sample/blob/main/docs/data/bgimage/IMG_4121.JPG?raw=true time=500]
+[bg storage=IMG_4121.jpg time=500]
 
 午後8時。[r]
 明日から友人2人と沖縄旅行に行く予定だ。[r]
@@ -392,7 +392,7 @@ YouTubeを見ていたら午後11時15分になっていた。[r]
 
 *suimin4
 
-[bg storage=https://github.com/ShoichiHino/tyrano_sample/blob/main/docs/data/bgimage/IMG_4122.JPG?raw=true time=500]
+[bg storage=IMG_4122.jpg time=500]
 
 現在午前6時。[r]
 荷造りをすぐ済ませて午前3時に就寝し、午前6時に目が覚めた。[r]
@@ -412,7 +412,7 @@ YouTubeを見ていたら午後11時15分になっていた。[r]
 
 [cm]
 
-[bg storage=https://github.com/ShoichiHino/tyrano_sample/blob/main/docs/data/bgimage/IMG_4122.JPG?raw=true time=500]
+[bg storage=IMG_4122.jpg time=500]
 
 最終的に一晩中ゲームをし、急いで荷造りをした。[r]
 しかし、荷造り中に限界を迎え、気がついたら午前12時に目が覚めた。[r]
